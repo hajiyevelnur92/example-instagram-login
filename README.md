@@ -4,9 +4,6 @@ This example developed to help developer to understand instagram login xml with 
 ## **Usage** ##
 ![image](https://image.ibb.co/cCxFt8/ezgif_com_video_to_gif.gif)
 
-[![Android Arsenal]()
-
-
 **Gradle**
 
     allprojects {
